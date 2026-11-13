@@ -1,0 +1,6 @@
+{
+  "name": "NoteFusionAI",
+  "description": "Transform meetings and lectures into smart structured notes with multilingual transcription, action item detection, calendar integration, and interactive AI Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
