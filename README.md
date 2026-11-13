@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/eaf1e718-e448-4232-98d2-ef53985a72a1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+NoteFusionAI
+A web application designed to make learning and information management easier by converting audio, lectures, meetings and videos into structured notes.
+Features
+- Audio and video transcription.
+- Support for multiple languages.
+- Translation of multilingual content into English.
+- Automatic summaries and key points.
+- Important topics and action items extraction.
+- Chat with processed content.
+- Detection of dates, deadlines and events.
+- Download notes as PDF.
+Technologies Used
+- Frontend: React, TypeScript, Tailwind CSS
+- Backend: Node.js, Express.js
+- AI Integration: Google Gemini API
+- Authentication: Email OTP and password-based authentication
+Project Objective
+The main objective of this project is to reduce the time spent preparing notes manually and make important information easier to understand, organize and access.
